@@ -11,3 +11,5 @@ Task | App/tool/software | Comment |
 | Burn an ISO | ImgBurn | |
 | Find Duplicate Images/Pictures/Photos | | 
 | Colour Picker - find hex colour code under mouse pointer | Pixie | |
+| Rip a DVD/convert .vob files to .mp4 | ffmpeg | | 
+
