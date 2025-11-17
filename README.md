@@ -12,4 +12,11 @@ Task | App/tool/software | Comment |
 | Find Duplicate Images/Pictures/Photos | | 
 | Colour Picker - find hex colour code under mouse pointer | Pixie | |
 | Rip a DVD/convert .vob files to .mp4 | ffmpeg | | 
+| Adjust autoplay handlers | CleanHandlers | |
+| Find and delete empty folders | RED2 | |
+| Watch/Tail log files in realtime | Notepad++, Trace32/CMtrace | |
+| Burn ISO to bootable USB | Rufus | Rufus usually works much better than UnetBootin |
+| Onscreen ruler | Onscreen ruler | |
+| Convert epub to PDF | Calibre | Converted files output to Calibre\Calibre Library |
+| Calibrate Screen colours | Calibrize | |
 
