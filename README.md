@@ -19,4 +19,6 @@ Task | App/tool/software | Comment |
 | Onscreen ruler | Onscreen ruler | |
 | Convert epub to PDF | Calibre | Converted files output to Calibre\Calibre Library |
 | Calibrate Screen colours | Calibrize | |
+| Convert .flac, .wma to .mp3 | FFMPEG | |
+| Convert .opus to .mp3 | FFMPEG | NOTE: Does not preserve metadata! |
 
