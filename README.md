@@ -23,4 +23,5 @@ Task | App/tool/software | Comment |
 | Convert .opus to .mp3 | FFMPEG | NOTE: Does not preserve metadata! |
 | Set window to be always on top | Always on top maker | |
 | Automatically download and embed lyrics into ID3 tags | MediaMonkey ? LyricsFetcher | LyricsFetcher no longer works |
+| Web Server | RebexTinyWebServer | |
 
