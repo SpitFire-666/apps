@@ -24,4 +24,4 @@ Task | App/tool/software | Comment |
 | Set window to be always on top | Always on top maker | |
 | Automatically download and embed lyrics into ID3 tags | MediaMonkey ? LyricsFetcher | LyricsFetcher no longer works |
 | Web Server | RebexTinyWebServer | |
-| Download songs/tracks from spotify | Spotisaver | https://www.spotifysaver.com/ |
+| Download songs/tracks from spotify | Spotisaver | https://spotisaver.net/ |
