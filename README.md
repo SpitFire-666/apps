@@ -25,4 +25,4 @@ Task | App/tool/software | Comment |
 | Automatically download and embed lyrics into ID3 tags | MediaMonkey ? LyricsFetcher | LyricsFetcher no longer works |
 | Web Server | RebexTinyWebServer | |
 | Download songs/tracks from spotify | Spotisaver | https://spotisaver.net/ |
-| View/convert .wpg (WordPerfect graphics files) | https://convert.guru/converter |
+| View/convert .wpg (WordPerfect graphics files) | https://convert.guru/converter or https://fabconvert.com/convert/wpg (this does batch conversion of 100 at a time, but converts to transparent .pngs - so convert to .bmp then use imagemagick to convert to .png) |
