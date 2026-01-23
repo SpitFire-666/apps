@@ -28,3 +28,4 @@ Task | App/tool/software | Comment |
 | Backup Firefox | 🆕Built-in to Firefox v147. MozBackup | | |
 | CPU temp in system tray | 💾 Real Temp | | |
 | Create audiobook from text, .epub, .pdf etc | 💾 Balabolka | Best way is to go Tools, Use online TTS Service, Text files, Add file(s), Save audio to same folder |
+| Tag audiobooks (.m4b) | 💾 MP3Tag | |
