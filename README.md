@@ -30,3 +30,4 @@ Task | App/tool/software | Comment |
 | Create audiobook from text, .epub, .pdf etc | 💾 Balabolka | Best way is to go Tools, Use online TTS Service, Text files, Add file(s), Save audio to same folder |
 | Tag audiobooks (.m4b) | 💾 MP3Tag | |
 | Tile an image | 💾 ImageMagick | ```magick.exe convert -size 1024x1024 tile:"Z:\WINDOWS\ARCHES.BMP" C:\temp\archestiled.bmp``` |
+| Open/Extract files from a .VDI (virtualbox hard disk | 💾 7-Zip | |
