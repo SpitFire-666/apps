@@ -31,3 +31,4 @@ Task | App/tool/software | Comment |
 | Tag audiobooks (.m4b) | 💾 MP3Tag | |
 | Tile an image | 💾 ImageMagick | ```magick.exe convert -size 1024x1024 tile:"Z:\WINDOWS\ARCHES.BMP" C:\temp\archestiled.bmp``` |
 | Open/Extract files from a .VDI (virtualbox hard disk | 💾 7-Zip | |
+| Convert .ico to .png (with transparency) | 💾 ImageMagick | ```C:\ImageMagick\magick.exe "S:\Win3x_Software\ICONS\NETWATCH.EXE_14_402.ico" "S:\Win3x_Software\ICONS\NETWATCH.EXE_14_402.PNG"``` |
