@@ -1,6 +1,6 @@
 # Apps, tools, services
 
-Tools to get stuff done, favouring free, portable software.
+Tools to get stuff done on Windows, favouring free, portable software.
 
 💾 = Software
 🆓 = Free software
