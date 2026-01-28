@@ -1,5 +1,11 @@
 # Apps, tools, services
 
+Tools to get stuff done, favouring free, portable software.
+
+💾 = Software
+🆓 = Free software
+🌐 = Web service
+
 Task | App/tool/software | Comment |
 |---|---------|----------|
 | Open .gho (Norton Ghost file) | 💾 Ghost Explorer | https://archive.org/details/norton-ghost-explorer-version-2003.789 Around 2003, the format changed to a new one |
