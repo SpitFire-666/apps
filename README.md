@@ -13,7 +13,7 @@ Task | App/tool/software | Comment |
 | Convert epub to PDF | 💾 Calibre | |
 | Find long path names | 💾 Path Scanner | |
 | Burn an ISO | 💾 ImgBurn | |
-| Find Duplicate Images/Pictures/Photos | | 
+| Find Duplicate Images/Pictures/Photos | AntiDupl.NET | 
 | Colour Picker - find hex colour code under mouse pointer | 💾 Pixie | |
 | Rip a DVD/convert .vob files to .mp4 | 💾 ffmpeg | | 
 | Adjust autoplay handlers | 💾 CleanHandlers | |
