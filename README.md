@@ -39,3 +39,4 @@ Task | App/tool/software | Comment |
 | Open/Extract files from a .VDI (virtualbox hard disk | 💾 7-Zip | |
 | Convert .ico to .png (with transparency) | 💾 ImageMagick | ```C:\ImageMagick\magick.exe "S:\Win3x_Software\ICONS\NETWATCH.EXE_14_402.ico" "S:\Win3x_Software\ICONS\NETWATCH.EXE_14_402.PNG"``` |
 | IP Scanner | 💾 [Advanced IP Scanner](https://www.advanced-ip-scanner.com/download/), 💾 [Free IP Scanner](https://www.eusing.com/ipscan/free_ip_scanner.htm), 💾 SoftPerfect Network Scanner | |
+| View Icons (.ico) files as thumbnails at different sizes | Irfanview | Use the Thumbnails option, and stretch icons to fill area |
