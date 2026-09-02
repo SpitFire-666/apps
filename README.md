@@ -10,7 +10,6 @@ Task | App/tool/software | Comment |
 |---|---------|----------|
 | Open .gho (Norton Ghost file) | 💾 Ghost Explorer | https://archive.org/details/norton-ghost-explorer-version-2003.789 Around 2003, the format changed to a new one |
 | Calibrate Screen colours | 💾 Calibrize | |
-| Convert epub to PDF | 💾 Calibre | |
 | Find long path names | 💾 Path Scanner | |
 | Burn an ISO | 💾 ImgBurn | |
 | Find Duplicate Images/Pictures/Photos | AntiDupl.NET | 
@@ -41,3 +40,4 @@ Task | App/tool/software | Comment |
 | IP Scanner | 💾 [Advanced IP Scanner](https://www.advanced-ip-scanner.com/download/), 💾 [Free IP Scanner](https://www.eusing.com/ipscan/free_ip_scanner.htm), 💾 SoftPerfect Network Scanner | |
 | View Icons (.ico) files as thumbnails at different sizes | Irfanview | Use the Thumbnails option, and stretch icons to fill area |
 | Rip a CD to .MP3 | CDex |  |
+| Read .epub files | | |
