@@ -41,3 +41,5 @@ Task | App/tool/software | Comment |
 | View Icons (.ico) files as thumbnails at different sizes | Irfanview | Use the Thumbnails option, and stretch icons to fill area |
 | Rip a CD to .MP3 | CDex |  |
 | Read .epub files | | |
+| Wipe/erase/shred a disk | Windows (via Full Format), OW Shredder, | |
+| Wipe free space | cipher /w:D:\  | |
